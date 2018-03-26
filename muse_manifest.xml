@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="somosiguales.net" resolutions="1x" timestamp="1521951984181">
+  <folder name="css">
+    <file name="site_global.css" crc="3949803295"/>
+    <file name="index.css" crc="15229891" ref="index"/>
+    <file name="iefonts_index.css" crc="3806392608" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ingracd-regular4.woff" crc="3932212033"/>
+    <file name="ingracd-regular4.eot" crc="4184096247"/>
+    <file name="ingracd-regular4.svg" crc="4167354849"/>
+    <file name="ingra-bold.woff" crc="71316953"/>
+    <file name="ingra-bold.eot" crc="4234912382"/>
+    <file name="ingra-bold.svg" crc="435728671"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u2451.php" crc="338970752" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="image-20150401-31299-247szi.jpg" crc="103397866" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-57407x48.svg" crc="26444038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 57407x48_poster_.png" crc="4259281281" ref="index"/>
+    <file name="pasted-svg-38889x57.svg" crc="4073791537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 38889x57_poster_.png" crc="3976876807" ref="index"/>
+    <file name="pasted-svg-57408x56.svg" crc="3797756983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 57408x56_poster_.png" crc="534613668" ref="index"/>
+    <file name="adobestock_96117137-634x0-c-default1-u141-fr.png" crc="3966284787" ref="index"/>
+    <file name="logo.svg" crc="4259878262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="4015647656" ref="index"/>
+    <file name="dollarphotoclub_78175213.jpg" crc="4247773111" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="online learning.jpg" crc="4117117249" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="344574728" seo="true" mt="1521951749946" redirect="true"/>
+</manifest>
